@@ -2,6 +2,8 @@
 
 **RYFT** is a **Solana-based yield-bearing token** that distributes revenue generated from **flash liquidity lending**. The protocol enables **high-frequency traders (HFT)** to access instant liquidity while **liquidity providers (LPs) earn real yield** from flash loan fees.
 
+**devnet**:(https://explorer.solana.com/address/5Qyc9MhKk2Dfh3TrGnruFaUPCoYbBcWRjkWc2pqQFkbs?cluster=devnet)
+
 ---
 
 ## 🚀 Features
